@@ -1,7 +1,3 @@
----
-authors: '["Jane Doe"]'
----
-
 --- 
 tags:
 - coding
