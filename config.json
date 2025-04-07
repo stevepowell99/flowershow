@@ -2,6 +2,7 @@
     "showSidebar": true,
     "nav": {
       "title": "My Causal Map Garden",
+      "logo": "https://chat.qualiainterviews.com/static/favicon.png",
       "links": [
         {
           "href": "/000+reference+articles/eval2024",
