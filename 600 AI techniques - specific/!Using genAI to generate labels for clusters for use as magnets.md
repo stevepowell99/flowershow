@@ -1,0 +1,2 @@
+If we are going to use the labels as magnets, they should remain in single-case formulations and not try to generalise. 
+So if we have many labels like "school creativity project in North district implemented", then it is better that the cluster label is also of that form, and not for example "creativity projects implemented in multiple schools"
