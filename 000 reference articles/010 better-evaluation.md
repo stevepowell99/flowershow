@@ -3,8 +3,6 @@
 authors: ["Jane Doe"]
 image: img/image.png # relative path
 
-Created at: <% tp.file.creation_date() %>
-Modified at: <% tp.file.last_modified_date("dddd do MMMM YY HH:mm") %>
 tags: 
 - Coding
 - YAML
