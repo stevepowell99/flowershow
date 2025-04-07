@@ -1,8 +1,16 @@
 
-```yaml
+--- 
 authors: ["Jane Doe"]
 image: img/image.png # relative path
-```
+
+Created at: <% tp.file.creation_date() %>
+Modified at: <% tp.file.last_modified_date("dddd do MMMM YY HH:mm") %>
+tags: 
+- Coding
+- YAML
+Aliases: []
+---
+
 ## Causal mapping
 
 Causal mapping helps make sense of the causal claims (about "what causes what") that people make in interviews, conversations, and documents. This data is coded, combined, and displayed in the form of maps. These maps show individuals' and groups' mental models and can support further investigation of causal connections.
