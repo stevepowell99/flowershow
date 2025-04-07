@@ -1,12 +1,10 @@
+---
+authors: '["Jane Doe"]'
+---
 
 --- 
-authors: ["Jane Doe"]
-image: img/image.png # relative path
-
-tags: 
-- Coding
-- YAML
-Aliases: []
+tags:
+- coding
 ---
 
 ## Causal mapping
