@@ -1,4 +1,9 @@
-# Causal mapping
+
+```yaml
+authors: ["Jane Doe"]
+image: img/image.png # relative path
+```
+## Causal mapping
 
 Causal mapping helps make sense of the causal claims (about "what causes what") that people make in interviews, conversations, and documents. This data is coded, combined, and displayed in the form of maps. These maps show individuals' and groups' mental models and can support further investigation of causal connections.
 
