@@ -1,3 +1,13 @@
 {
-  "showSidebar": true
-}
+    "showSidebar": true,
+    "nav": {
+      "title": "My Causal Map Garden",
+      "links": [
+        {
+          "href": "/000+reference+articles/eval2024",
+          "name": "Blog"
+        }
+      ]
+    }
+  }
+  
