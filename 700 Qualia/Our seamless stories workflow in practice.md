@@ -46,7 +46,7 @@ After this, we started writing the instructions for Qualia to conduct the interv
     - “What is the causal network from gender discrimination?”
     - “What are the most mentioned factors by the sources?”
     
-    ![Untitled](Untitled%201.png)
+    ![Untitled](img.png)
     
 - We also used the ‘AI Answers’ feature to help us understand more about the interviews
     - This functionality allows you to ask questions about all the text in your file.
