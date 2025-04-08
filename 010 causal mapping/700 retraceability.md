@@ -1,7 +1,6 @@
 
 [[600 bricolage]]
 
-![[600 bricolage]]
 
 -  
 
