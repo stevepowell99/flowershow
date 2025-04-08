@@ -5,9 +5,9 @@ image: "img/img.png"
 showHero: true
 ctas:
   - text: "Start Reading"
-    url: "/blog"
+    url: "/000+reference+articles/eval2024"
   - text: "About Me"
-    url: "/about"
+    url: "/000+reference+articles/eval2024"
     variant: "outline" # Creates an outlined button
 ---
 
