@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Steve's writings on causal mapping
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
