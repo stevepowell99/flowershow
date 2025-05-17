@@ -13,6 +13,10 @@ The labels generated can be a bit generic, perhaps in the hope that generic labe
 So we tried this prompt:
 
 
+|     |     |
+| --- | --- |
+|     |     |
+
 
 For each cluster, provide four alternative 3-10 word labels which best capture the meaning of each cluster. Usually it is quite easy to provide abstract, generic labels (like a headline in an academic journal) but these can be a bit boring. Concrete, memorable labels on the other hand (like a headline from a local newspaper) can "jump out" at the reader but harder to apply to the whole cluster. That is why I am asking you for four alternative labels for each cluster.
 
