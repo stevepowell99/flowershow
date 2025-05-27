@@ -6,7 +6,7 @@ The worry about losing control to machines is real, but we need to distinguish b
 **An algorithm** is simply a set of explicit steps to make a decision or produce an output, usually expressed in code or clear language. Organizations have used such rule-based systems for decades.
 ### No algorithm: trust the human
 
-The alternative (precursor) to algorithms is trusting humans to make decisions. This can be great if humans consider context and individual circumstances, but it can also lead to bias and corruption.
+The alternative (precursor) to algorithms is trusting humans to make decisions. This can be great if humans consider context and individual circumstances, what Scott calls "mētis," or local, practical, tacit knowledge, (Scott, 2020) but it can also lead to bias and corruption.
 
 We can see rubrics in evaluation (King et al., 2013) as a kind of soft algorithm. We usually welcome rubrics because they make evaluation criteria more explicit, transparent, and less subject to the whims and unreliability of individuals.
 
@@ -18,7 +18,7 @@ Algorithms can help decide things like student admissions or loan approvals usin
 
 Some algorithms use statistical models to predict outcomes, like creditworthiness, by combining data such as age or location. These models can become complex and harder to interpret, sometimes making their decisions seem arbitrary or unfair. The key difference is that with a more advanced statistical model we might find it increasingly hard to understand where the different parts of the formula come: it might combine parameters which for us seem meaningless and hard to justify but which have proven to be associated with the outcome of interest.
 
-Both explicit and statistical algorithms can be criticized for bias, but they are transparent if their rules are published. Problems arise when rules are hidden or people are discriminated against because of the groups they belong to.
+Both explicit and statistical algorithms can be criticized for bias, but they are transparent if their rules are published. Problems arise when rules are hidden or people are discriminated against because of the groups they belong to. These opaque models can become what data scientist Cathy O'Neil calls 'Weapons of Math Destruction' (O’neil, 2017).
 
 ### Machine learning
 
