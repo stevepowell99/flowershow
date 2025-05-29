@@ -1,5 +1,5 @@
 ---
-title: Welcome to Steve's writings on causal mapping
+title: Welcome to Steve Powell's writings on causal mapping and AI.
 ---
 
 # Start here
