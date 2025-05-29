@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 The Causal Map team has conducted a trial of an innovative approach to securing feedback from students using online open-ended interviews conducted by the app [QualiaInterviews](https://qualia-interviews.bullet.site/home/), which uses generative AI (gen-AI), followed by a second use of gen-AI within the app **Causal Map** to semi-automate causal coding of the narrative transcripts thereby generated. The trial was conducted with students registered on the doctorate in policy research and practice (DPRP) at the **University of Bath.** 
 
