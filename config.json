@@ -21,7 +21,6 @@
 
   "showComments": false,           
   "showSidebar": true,             
-  "contentInclude": ["/010 causal mapping", "index.md"],
-  "contentExclude": ["/blog/_archive"]
+  "contentInclude": ["/010 causal mapping", "index.md"]
 }
 
