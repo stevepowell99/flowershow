@@ -8,7 +8,20 @@
           "href": "/000+reference+articles/eval2024",
           "name": "Blog"
         }
-      ]
+      ],
+      "social": [                    // Social media links
+      {
+        "label": "github",
+        "name": "GitHub Profile",
+        "href": "https://github.com/stevepowell99"
+      }
+    ]
     }
-  }
-  
+
+
+  "showComments": false,           // Disable comments site-wide (if you want to enable them only on specific pages)
+  "showSidebar": true,             // Show site map on the left,
+  "contentInclude": ["/010 causal mapping", "index.md"],
+  "contentExclude": ["/blog/_archive"]
+}
+
